@@ -4,12 +4,12 @@ This repository contains the code corresponding to a healthcare patient manageme
 
 ## ⚙️ Tech Stack
 
-* **Next.js**
-* **Appwrite**
-* **TypeScript**
-* **TailwindCSS**
-* **ShadCN**
-* **Twilio**
+* **Framework:** Next.js (Full-stack React)
+* **Database & Auth:** Appwrite (Backend-as-a-Service)
+* **Type Safety:** TypeScript
+* **Design System:** TailwindCSS + ShadCN UI
+* **Messaging:** Twilio (SMS Gateway)
+* **Observability:** Sentry (Performance Tracking)
 
 ---
 
