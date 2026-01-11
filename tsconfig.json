@@ -13,6 +13,11 @@
     "isolatedModules": true,
     "jsx": "react-jsx",
     "incremental": true,
+
+    // ✅ Disable deprecation warnings (like users.create)
+    "ignoreDeprecations": "5.0",
+    "types": ["node"],
+
     "plugins": [
       {
         "name": "next"
